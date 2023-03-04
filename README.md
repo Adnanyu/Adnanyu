@@ -1,4 +1,5 @@
-<h1> Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is aden</h1> ================================================== <h2>Front-end web developer</h2> ================================================= 
+<h1> Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is aden</h1> 
+<h2>Front-end web developer</h2> 
 self thought front-end developer and a current undergraduate computer engineer
 * 🌍  I'm based in istanbul/turkey 
 * 🖥️  See my portfolio at [portfolio](https://tangerine-nasturtium-4c2c7a.netlify.app) 
