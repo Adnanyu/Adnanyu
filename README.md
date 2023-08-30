@@ -3,7 +3,7 @@
 
 self thought front-end developer and a current undergraduate computer engineer
 * 🌍  I'm based in istanbul/turkey 
-* 🖥️  See my portfolio at [portfolio](https://tangerine-nasturtium-4c2c7a.netlify.app) 
+* 🖥️  See my portfolio at [portfolio](https://aden-portfolio.netlify.app) 
 * ✉️  You can contact me at [email](mailto:adenyusuf332@gmail.com) 
 * 🧠  I'm currently learning Typescript 
 * 🤝  I'm open to collaborating on interesting projects 
