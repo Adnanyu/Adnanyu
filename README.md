@@ -20,11 +20,7 @@ self thought front-end developer and a current undergraduate computer engineer
  
  <p align="left"> <a href="https://discord.com/users/adnan_123 #7329" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/Adnanyu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/adnan-abdi-yusuf-3511aa265/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32"  /></a></p>
  
-### Badges
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/Adnanyu"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Adnanyu&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 
 
